@@ -9,4 +9,5 @@ ls -al //해당 디렉토리 안에 파일 보기 (숨김파일 포함)
 ls //해당 디렉토리 안에 파일 보기 
 ```
 
-$git clone: Copy your own repository in Github. → vscode가 기본적으로 사용하는 command
+### $git clone: Copy your own repository in Github. → vscode가 기본적으로 사용하는 command
+
